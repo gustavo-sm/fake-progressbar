@@ -9,5 +9,4 @@ def progressBar(current, total):
         input()
 
     os.system('cls' if os.name == 'nt' else 'clear')
-    
 
